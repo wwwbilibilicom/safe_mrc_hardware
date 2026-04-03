@@ -10,7 +10,7 @@
 ![Form Factor: Small size](https://img.shields.io/badge/Size-Compact-orange)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/safe_mrc_for_DM_firmware/main/images/hardware.png" alt="SafeMRC Hardware" width="600">
+  <img src="https://github.com/wwwbilibilicom/safe_mrc_for_DM_firmware/raw/main/images/hardware.png" alt="SafeMRC Hardware" width="600">
 </p>
 
 ## Overview
